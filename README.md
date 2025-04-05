@@ -5,6 +5,6 @@ This is a Stock Price Prediction web application built using Streamlit and Sciki
 
 # Features
 ✅ Select a stock from the sidebar (Tesla, Reliance, or Apple).
-✅ View the historical stock data (Open, High, Low, Close, and Volume).
-✅ Train a Linear Regression model to predict the stock's closing price.
+✅ You can view the historical stock data (Open, High, Low, Close, and Volume).
+✅ Trained in a Linear Regression model to predict the stock's closing price.
 ✅ Input new values for High, Low, Open, and Volume to predict the closing price.
